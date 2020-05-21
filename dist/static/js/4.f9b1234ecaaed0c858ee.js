@@ -1,0 +1,2 @@
+webpackJsonp([4],{soFA:function(t,e){},taF9:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var r={render:function(){var t=this.$createElement;return(this._self._c||t)("div",{staticClass:"product"},[this._v("\n  product\n")])},staticRenderFns:[]};var s=n("VU/8")({name:"Product"},r,!1,function(t){n("soFA")},"data-v-79f7c8e5",null);e.default=s.exports}});
+//# sourceMappingURL=4.f9b1234ecaaed0c858ee.js.map
